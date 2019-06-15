@@ -15,7 +15,7 @@ bool issorted(long int arr[],int n)
 
 int main(){
 	long int arr[1000];
-	 n,i;
+	int n,i;
 	cin>>n;
 	for(i=0;i<n;i++)
 	{
