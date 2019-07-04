@@ -1,3 +1,5 @@
+//program of find all possible mapped strings 
+//123 will give ABC, AW, LC
 #include<bits/stdc++.h>
 using namespace std;
 
